@@ -408,7 +408,7 @@ describe('MetaMask', function () {
       assert.equal(transactions.length, 1)
 
       if (process.env.SELENIUM_BROWSER !== 'firefox') {
-        const txValues = await findElement(driver, By.css('.transaction-list-item__amount--secondary'))
+        const txValues = await findElement(driver, By.css('.transaction-list-item__amount--primary'))
         await driver.wait(until.elementTextMatches(txValues, /-1\sETH/), 10000)
       }
     })
@@ -463,7 +463,7 @@ describe('MetaMask', function () {
       const transactions = await findElements(driver, By.css('.transaction-list-item'))
       assert.equal(transactions.length, 2)
 
-      const txValues = await findElement(driver, By.css('.transaction-list-item__amount--secondary'))
+      const txValues = await findElement(driver, By.css('.transaction-list-item__amount--primary'))
       await driver.wait(until.elementTextMatches(txValues, /-3\sETH/), 10000)
     })
   })
@@ -541,7 +541,7 @@ describe('MetaMask', function () {
       await delay(largeDelayMs)
 
       await findElements(driver, By.css('.transaction-list-item'))
-      const [txListValue] = await findElements(driver, By.css('.transaction-list-item__amount--secondary'))
+      const [txListValue] = await findElements(driver, By.css('.transaction-list-item__amount--primary'))
       await driver.wait(until.elementTextMatches(txListValue, /-4\sETH/), 10000)
       await txListValue.click()
       await delay(regularDelayMs)
@@ -575,7 +575,7 @@ describe('MetaMask', function () {
         return confirmedTxes.length === 4
       }, 10000)
 
-      const txValues = await findElements(driver, By.css('.transaction-list-item__amount--secondary'))
+      const txValues = await findElements(driver, By.css('.transaction-list-item__amount--primary'))
       await driver.wait(until.elementTextMatches(txValues[0], /-4\sETH/), 10000)
 
       // const txAccounts = await findElements(driver, By.css('.tx-list-account'))
@@ -607,7 +607,7 @@ describe('MetaMask', function () {
         return confirmedTxes.length === 5
       }, 10000)
 
-      const txValues = await findElement(driver, By.css('.transaction-list-item__amount--secondary'))
+      const txValues = await findElement(driver, By.css('.transaction-list-item__amount--primary'))
       await driver.wait(until.elementTextMatches(txValues, /-0\sETH/), 10000)
 
       await closeAllWindowHandlesExcept(driver, [extension, dapp])

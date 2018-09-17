@@ -44,6 +44,9 @@
   "accountSelectionRequired": {
     "message": "You need to select an account!"
   },
+  "activityLog": {
+    "message": "activity log"
+  },
   "address": {
     "message": "Address"
   },
@@ -884,6 +887,9 @@
   "save": {
     "message": "Save"
   },
+  "speedUp": {
+    "message": "speed up"
+  },
   "speedUpTitle": {
     "message": "Speed Up Transaction"
   },
@@ -1112,6 +1118,27 @@
   "total": {
     "message": "Total"
   },
+  "transaction": {
+    "message": "transaction"
+  },
+  "transactionConfirmed": {
+    "message": "Transaction confirmed on $2."
+  },
+  "transactionCreated": {
+    "message": "Transaction created with a value of $1 on $2."
+  },
+  "transactionDropped": {
+    "message": "Transaction dropped on $2."
+  },
+  "transactionSubmitted": {
+    "message": "Transaction submitted on $2."
+  },
+  "transactionUpdated": {
+    "message": "Transaction updated on $2."
+  },
+  "transactionUpdatedGas": {
+    "message": "Transaction updated with a gas price of $1 on $2."
+  },
   "transactions": {
     "message": "transactions"
   },
@@ -1157,6 +1184,9 @@
   },
   "unavailable": {
     "message": "Unavailable"
+  },
+  "units": {
+    "message": "units"
   },
   "unknown": {
     "message": "Unknown"
