@@ -61,7 +61,7 @@ InfoScreen.prototype.render = function () {
             [
               h('div', [
                 h('a', {
-                  href: 'https://metamask.io/privacy.html',
+                  href: 'https://www.kondorexchange.com/kondorwallet-privacy/',
                   target: '_blank',
                   onClick: (event) => { this.navigateTo(event.target.href) },
                 }, [
@@ -70,7 +70,7 @@ InfoScreen.prototype.render = function () {
               ]),
               h('div', [
                 h('a', {
-                  href: 'https://metamask.io/terms.html',
+                  href: ' https://www.kondorexchange.com/kondorwallet-terms/',
                   target: '_blank',
                   onClick: (event) => { this.navigateTo(event.target.href) },
                 }, [
@@ -79,7 +79,7 @@ InfoScreen.prototype.render = function () {
               ]),
               h('div', [
                 h('a', {
-                  href: 'https://metamask.io/attributions.html',
+                  href: 'https://www.kondorexchange.com/kondorwallet-attributions/',
                   target: '_blank',
                   onClick: (event) => { this.navigateTo(event.target.href) },
                 }, [
@@ -103,14 +103,14 @@ InfoScreen.prototype.render = function () {
             [
               h('div.fa.fa-support', [
                 h('a.info', {
-                  href: 'https://support.metamask.io',
+                  href: 'https://www.kondorexchange.com/kondorwallet-support/',
                   target: '_blank',
                 }, 'Visit our Support Center'),
               ]),
 
               h('div', [
                 h('a', {
-                  href: 'https://metamask.io/',
+                  href: 'https://www.kondorexchange.com/kondorwallet/',
                   target: '_blank',
                 }, [
                   h('img.icon-size', {
@@ -138,7 +138,7 @@ InfoScreen.prototype.render = function () {
               h('div.fa.fa-envelope', [
                 h('a.info', {
                   target: '_blank',
-                  href: 'mailto:help@metamask.io?subject=Feedback',
+                  href: 'mailto:soporte@kondorexchange.com?subject=Feedback',
                 }, 'Email us!'),
               ]),
             ]),
