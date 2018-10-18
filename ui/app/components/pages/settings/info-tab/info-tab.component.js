@@ -77,7 +77,7 @@ export default class InfoTab extends PureComponent {
         </div>
         <div className="info-tab__link-item">
           <a
-            href="https://www.kondorexchange.com/kondorwallet"
+            href="https://www.kondorexchange.com/kondorwallet/"
             target="_blank"
             rel="noopener noreferrer"
           >

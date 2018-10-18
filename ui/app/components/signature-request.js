@@ -204,7 +204,7 @@ SignatureRequest.prototype.renderBody = function () {
       h('span.request-signature__help-link', {
         onClick: () => {
           global.platform.openWindow({
-            url: 'https://consensys.zendesk.com/hc/en-us/articles/360004427792',
+            url: 'https://www.kondorexchange.com/kondorwallet-new-secure-way/',
           })
         },
     }, this.context.t('learnMore'))]

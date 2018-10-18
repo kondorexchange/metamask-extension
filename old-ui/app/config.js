@@ -125,7 +125,7 @@ ConfigScreen.prototype.render = function () {
                   if (err) {
                     state.dispatch(actions.displayWarning('Error in retrieving state logs.'))
                   } else {
-                    exportAsFile('MetaMask State Logs.json', result)
+                    exportAsFile('Kondorwallet State Logs.json', result)
                   }
                 })
               },
@@ -166,7 +166,7 @@ ConfigScreen.prototype.render = function () {
             }, [
               'Resetting is for developer use only. ',
               h('a', {
-                href: 'http://metamask.helpscoutdocs.com/article/36-resetting-an-account',
+                href: 'https://www.kondorexchange.com/kondorwallet-reset-account/',
                 target: '_blank',
               }, 'Read more.'),
             ]),

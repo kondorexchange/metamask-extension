@@ -46,7 +46,7 @@ AccountImportSubview.prototype.render = function () {
           },
           onClick: () => {
             global.platform.openWindow({
-              url: 'https://consensys.zendesk.com/hc/en-us/articles/360004180111-What-are-imported-accounts-New-UI',
+              url: 'https://www.kondorexchange.com/kondorwallet-importing-accounts/',
             })
           },
         }, this.context.t('here')),

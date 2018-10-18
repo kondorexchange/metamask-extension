@@ -41,11 +41,11 @@ PendingMsg.prototype.render = function () {
         sites you fully trust with your entire account.
         This dangerous method will be removed in a future version. `,
         h('a', {
-          href: 'https://medium.com/metamask/the-new-secure-way-to-sign-data-in-your-browser-6af9dd2a1527',
+          href: 'https://www.kondorexchange.com/kondorwallet-new-secure-way/',
           style: { color: 'rgb(211,12,92)' },
           onClick: (event) => {
             event.preventDefault()
-            const url = 'https://medium.com/metamask/the-new-secure-way-to-sign-data-in-your-browser-6af9dd2a1527'
+            const url = 'https://www.kondorexchange.com/kondorwallet-new-secure-way/'
             global.platform.openWindow({ url })
           },
         }, 'Read more here.'),

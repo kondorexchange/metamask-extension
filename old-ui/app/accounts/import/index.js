@@ -50,7 +50,7 @@ AccountImportSubview.prototype.render = function () {
           padding: '5px 15px 0px 15px',
         },
       }, [
-        h('span', 'Imported accounts will not be associated with your originally created MetaMask account seedphrase. Learn more about imported accounts '),
+        h('span', 'Imported accounts will not be associated with your originally created Kondorwallet account seedphrase. Learn more about imported accounts '),
         h('span', {
           style: {
             color: 'rgba(211,12,92, 1)',
@@ -59,7 +59,7 @@ AccountImportSubview.prototype.render = function () {
           },
           onClick: () => {
             global.platform.openWindow({
-              url: 'https://metamask.helpscoutdocs.com/article/17-what-are-loose-accounts',
+              url: ' https://www.kondorexchange.com/kondorwallet-what-are-loose-accounts/',
             })
           },
         }, 'here.'),

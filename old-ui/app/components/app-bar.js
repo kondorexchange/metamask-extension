@@ -78,7 +78,7 @@ module.exports = class AppBar extends Component {
           zIndex: 12,
         },
       }, [
-        'Try the New MetaMask',
+        'Try the New Kondorwallet',
         AppBar.renderSpace(),
         h('span.banner__link', {
           async onClick () {
@@ -94,7 +94,7 @@ module.exports = class AppBar extends Component {
         h('span.banner__link', {
           onClick () {
             global.platform.openWindow({
-              url: 'https://medium.com/metamask/74dba32cc7f7',
+              url: 'https://www.kondorexchange.com/kondorwallet-newui/',
             })
           },
         }, [

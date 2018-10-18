@@ -33,9 +33,9 @@ module.exports = class NewUiAnnouncement extends PureComponent {
           }, '×'),
         ]),
         h('section.new-ui-announcement__body', [
-          h('h1', 'A New Version of MetaMask'),
+          h('h1', 'A New Version of Kondorwallet'),
           h('p', [
-            "We're excited to announce a brand-new version of MetaMask with enhanced features and functionality.",
+            "We're excited to announce a brand-new version of Kondorwallet with enhanced features and functionality.",
           ]),
           h('div.updates-list', [
             h('h2', 'Updates include'),
@@ -50,7 +50,7 @@ module.exports = class NewUiAnnouncement extends PureComponent {
             ]),
           ]),
           h('p', [
-            'You can still use the current version of MetaMask. The new version is still in beta, ' +
+            'You can still use the current version of Kondorwallet. The new version is still in beta, ' +
             'however we encourage you to try it out as we transition into this exciting new update.',
             h('span', {
               dangerouslySetInnerHTML: {
@@ -58,7 +58,7 @@ module.exports = class NewUiAnnouncement extends PureComponent {
               },
             }),
             h('a', {
-              href: 'https://medium.com/metamask/74dba32cc7f7',
+              href: 'https://www.kondorexchange.com/kondorwallet-newui/',
               onClick ({target}) {
                 const url = target.href
                 global.platform.openWindow({
@@ -71,7 +71,7 @@ module.exports = class NewUiAnnouncement extends PureComponent {
           ]),
         ]),
         h('section.new-ui-announcement__footer', [
-          h('h1', 'Ready to try the new MetaMask?'),
+          h('h1', 'Ready to try the new Kondorwallet?'),
           h('button.positive', {
             onClick: this.switchToNewUi,
           }, 'Try it now'),

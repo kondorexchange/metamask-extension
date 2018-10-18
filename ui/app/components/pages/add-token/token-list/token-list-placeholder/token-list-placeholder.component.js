@@ -15,7 +15,7 @@ export default class TokenListPlaceholder extends Component {
         </div>
         <a
           className="token-list-placeholder__link"
-          href="https://consensys.zendesk.com/hc/en-us/articles/360004135092"
+          href="https://www.kondorexchange.com/kondorwallet-what-is-token/"
           target="_blank"
           rel="noopener noreferrer"
         >

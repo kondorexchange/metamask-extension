@@ -66,7 +66,7 @@ class ConfirmRemoveAccount extends Component {
             { this.renderSelectedAccount() }
           <div className="modal-container__description">
             { t('removeAccountDescription') }
-            <a className="modal-container__link" rel="noopener noreferrer" target="_blank" href="https://consensys.zendesk.com/hc/en-us/articles/360004180111-What-are-imported-accounts-New-UI-">{ t('learnMore') }</a>
+            <a className="modal-container__link" rel="noopener noreferrer" target="_blank" href="https://www.kondorexchange.com/kondorwallet-importing-accounts/">{ t('learnMore') }</a>
           </div>
         </div>
         <div className="modal-container__footer">

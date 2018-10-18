@@ -46,7 +46,7 @@ InfoScreen.prototype.render = function () {
           // current version number
 
           h('.info.info-gray', [
-            h('div', 'Metamask'),
+            h('div', 'Kondorwallet'),
             h('div', {
               style: {
                 marginBottom: '10px',
@@ -125,7 +125,7 @@ InfoScreen.prototype.render = function () {
                   h('div.info', 'Visit our web site'),
                 ]),
               ]),
-
+              /*
               h('div', [
                 h('.fa.fa-twitter', [
                   h('a.info', {
@@ -134,7 +134,7 @@ InfoScreen.prototype.render = function () {
                   }, 'Follow us on Twitter'),
                 ]),
               ]),
-
+              */
               h('div.fa.fa-envelope', [
                 h('a.info', {
                   target: '_blank',
