@@ -1,6 +1,7 @@
-Dear MetaMask Users,
 
-There have been several instances of high-profile legitimate websites such as BTC Manager and Games Workshop that have had their websites temporarily compromised. This involves showing a fake MetaMask window on the page asking for user's seed phrases. MetaMask will never open itself in this way and users are encouraged to report these instances immediately to either [our phishing blacklist](https://github.com/MetaMask/eth-phishing-detect/issues) or our support email at [support@metamask.io](mailto:support@metamask.io).
+Estimados usuarios de Kondor-Wallet:
 
-Please read our full article on this ongoing issue at [https://medium.com/metamask/new-phishing-strategy-becoming-common-1b1123837168](https://medium.com/metamask/new-phishing-strategy-becoming-common-1b1123837168). 
+Ha habido varias instancias de sitios web legítimos de alto perfil como BTC Manager y Games Workshop que han tenido sus sitios web temporalmente comprometidos. Esto implica mostrar una ventana falsa de MetaMask en la página que solicita las frases iniciales del usuario. MetaMask nunca se abrirá de esta manera y se anima a los usuarios a que informen estas instancias de inmediato a nuestra lista negra de phishing o a nuestro correo electrónico de soporte en  soporte@kondorexchange.com](mailto:soporte@kondorexchange.com).
+
+Lea nuestro artículo completo sobre este tema en curso en [https://www.kondorexchange.com/kondorwallet-new-phishing-strategy/](https://www.kondorexchange.com/kondorwallet-new-phishing-strategy/)
 

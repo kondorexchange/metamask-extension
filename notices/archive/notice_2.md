@@ -1,6 +1,5 @@
-MetaMask is beta software. 
+Kondor-Wallet es un software beta.
 
-When you log in to MetaMask, your current account's address is visible to every new site you visit. This can be used to look up your account balances of Ether and other tokens.
+Cuando ingresa a Kondor-Wallet, la dirección de su cuenta actual es visible para cada sitio nuevo que visita. Esto se puede usar para buscar los saldos de su cuenta de Ether y otros tokens.
 
-For your privacy, for now, please sign out of MetaMask when you're done using a site.
-
+Para su privacidad, por ahora, cierre la sesión de Kondor-Wallet cuando haya terminado de utilizar un sitio.

@@ -191,7 +191,7 @@ BuyButtonSubview.prototype.mainnetSubview = function () {
       h('.flex-row.selected-exchange', {
         style: {
           position: 'relative',
-          right: '35px',
+          /* right: '35px', */
           marginTop: '20px',
           marginBottom: '20px',
         },
@@ -199,11 +199,11 @@ BuyButtonSubview.prototype.mainnetSubview = function () {
         h(RadioList, {
           defaultFocus: props.buyView.subview,
           labels: [
-            'Coinbase',
+            'KondorExchange',
             'ShapeShift',
           ],
           subtext: {
-            'Coinbase': 'Crypto/FIAT (USA only)',
+            'KondorExchange': 'Crypto/FIAT (Argentina only)',
             'ShapeShift': 'Crypto',
           },
           onClick: this.radioHandler.bind(this),
@@ -253,7 +253,7 @@ BuyButtonSubview.prototype.backButtonContext = function () {
 
 BuyButtonSubview.prototype.radioHandler = function (event) {
   switch (event.target.title) {
-    case 'Coinbase':
+    case 'KondorExchange':
       return this.props.dispatch(actions.coinBaseSubview())
     case 'ShapeShift':
       return this.props.dispatch(actions.shapeShiftSubview(this.props.provider.type))

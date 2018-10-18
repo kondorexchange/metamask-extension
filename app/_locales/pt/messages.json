@@ -34,7 +34,7 @@
     "description": "A descrição da aplicação"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Kondor-Wallet",
     "description": "Nome da aplicação"
   },
   "attemptingConnect": {
@@ -72,16 +72,16 @@
     "message": "Pedir Empréstimo Com Dharma (Beta)"
   },
   "builtInCalifornia": {
-    "message": "MetaMask é desenhada e construída na California."
+    "message": "Kondor-Wallet é desenhada e construída na California."
   },
   "buy": {
     "message": "Comprar"
   },
-  "buyCoinbase": {
-    "message": "Comprar no Coinbase"
+  "buyKondorExchange": {
+    "message": "Comprar no KondorExchange"
   },
-  "buyCoinbaseExplainer": {
-    "message": "Coinbase é a forma mais conhecida para comprar e vender Bitcoin, Ethereum, e Litecoin."
+  "buyKondorExchangeExplainer": {
+    "message": "KondorExchange é a forma mais conhecida para comprar e vender Bitcoin, Ethereum, e Litecoin."
   },
   "cancel": {
     "message": "Cancelar"
@@ -107,8 +107,8 @@
   "continue": {
     "message": "Continuar"
   },
-  "continueToCoinbase": {
-    "message": "Continuar para o Coinbase"
+  "continueToKondorExchange": {
+    "message": "Continuar para o KondorExchange"
   },
   "contractDeployment": {
     "message": "Distribuição do Contrato"
@@ -178,7 +178,7 @@
     "message": "A rede pré definida para transações em Ether é a Main Net."
   },
   "denExplainer": {
-    "message": " DEN é o armazenamento encriptado da sua palavra-passe no MetaMask."
+    "message": " DEN é o armazenamento encriptado da sua palavra-passe no Kondor-Wallet."
   },
   "deposit": {
     "message": "Depósito"
@@ -206,7 +206,7 @@
     "message": "Depositar com ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Se tem criptomoedas, pode trocar e depositar Ether diretamente na sua carteira MetaMask. Não precisa de conta."
+    "message": "Se tem criptomoedas, pode trocar e depositar Ether diretamente na sua carteira Kondor-Wallet. Não precisa de conta."
   },
   "details": {
     "message": "Detalhes"
@@ -351,7 +351,7 @@
     "message": "Importar Conta"
   },
   "importAccountMsg": {
-    "message":"Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo MetaMask. Saiba mais sobre contas importadas."
+    "message":"Contas importadas não irão ser associadas com a frase seed da conta criada originalmente pelo Kondor-Wallet. Saiba mais sobre contas importadas."
   },
   "importAnAccount": {
     "message": "Importar uma conta"
@@ -440,8 +440,8 @@
   "message": {
     "message": "Mensagem"
   },
-  "metamaskDescription": {
-    "message": "O MetaMask é um lugar seguro para guardar a sua identidade em em Ethereum."
+  "kondorWalletDescription": {
+    "message": "O Kondor-Wallet é um lugar seguro para guardar a sua identidade em em Ethereum."
   },
   "min": {
     "message": "Mínimo"
@@ -453,7 +453,7 @@
     "message": "Deve escolher no mínimo 1 token."
   },
   "needEtherInWallet": {
-    "message": "Para interagir com applicações descentralizadas usando MetaMask tem de ter Ether na sua carteira."
+    "message": "Para interagir com applicações descentralizadas usando Kondor-Wallet tem de ter Ether na sua carteira."
   },
   "needImportFile": {
     "message": "Deve selecionar um ficheiro para importar.",
@@ -731,7 +731,7 @@
     "message": "Símbolo do Token"
   },
   "tokenWarning1": {
-    "message": "Registe os tokens que comprou com a sua conta MetaMask. Se comprou tokens utilizando uma conta diferente, esses tokens não irão aparecer aqui."
+    "message": "Registe os tokens que comprou com a sua conta Kondor-Wallet. Se comprou tokens utilizando uma conta diferente, esses tokens não irão aparecer aqui."
   },
   "total": {
     "message": "Total"
@@ -753,7 +753,7 @@
     "description": "Seguido de um link (aqui) para ver o balanço dos seus tokens"
   },
   "twelveWords": {
-    "message": "Estas 12 palavras são a única forma de recuperar as suas contas na MetaMask.\nGuarde-as num local seguro e secreto."
+    "message": "Estas 12 palavras são a única forma de recuperar as suas contas na Kondor-Wallet.\nGuarde-as num local seguro e secreto."
   },
   "typePassword": {
     "message": "Digite a sua Palavra-passe"
@@ -762,7 +762,7 @@
     "message": "Bem-vindo ao seu Novo UI (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "Está agora a usar o novo UI da MetaMask. Dê uma vista de olhos, experimenta as novas funcionalidades como enviar tokens e diga-nos se tiver algum problema."
+    "message": "Está agora a usar o novo UI da Kondor-Wallet. Dê uma vista de olhos, experimenta as novas funcionalidades como enviar tokens e diga-nos se tiver algum problema."
   },
   "unavailable": {
     "message": "Indisponível"
@@ -805,7 +805,7 @@
     "message": "Aviso"
   },
   "welcomeBeta": {
-    "message": "Bem-vindo ao MetaMask Beta"
+    "message": "Bem-vindo ao Kondor-Wallet Beta"
   },
   "whatsThis": {
     "message": "O que é isto?"

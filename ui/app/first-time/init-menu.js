@@ -3,7 +3,7 @@ const { Component } = require('react')
 const PropTypes = require('prop-types')
 const connect = require('react-redux').connect
 const h = require('react-hyperscript')
-const Mascot = require('../components/mascot')
+// const Mascot = require('../components/mascot')
 const actions = require('../actions')
 const Tooltip = require('../components/tooltip')
 const getCaretCoordinates = require('textarea-caret')
@@ -38,9 +38,9 @@ class InitializeMenuScreen extends Component {
     return (
       h('.initialize-screen.flex-column.flex-center', [
 
-        h(Mascot, {
-          animationEventEmitter: this.animationEventEmitter,
-        }),
+        h('img.mainlogo', {
+          src: 'images/logo/logo.png',
+           }),
 
         h('h1', {
           style: {
@@ -67,7 +67,7 @@ class InitializeMenuScreen extends Component {
               style: {
                 fontSize: '18px',
                 position: 'relative',
-                color: 'rgb(247, 134, 28)',
+                color: 'rgb(211,12,92)',
                 top: '2px',
                 marginLeft: '4px',
               },
@@ -115,7 +115,7 @@ class InitializeMenuScreen extends Component {
             onClick: () => this.showRestoreVault(),
             style: {
               fontSize: '0.8em',
-              color: 'rgb(247, 134, 28)',
+              color: 'rgb(211,12,92)',
               textDecoration: 'underline',
             },
           }, this.context.t('importDen')),

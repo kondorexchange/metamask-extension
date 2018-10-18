@@ -116,7 +116,7 @@ export default class InfoTab extends PureComponent {
             </div>
             <div className="info-tab__item">
               <div className="info-tab__version-header">
-                { t('metamaskVersion') }
+                { t('kondorWalletVersion') }
               </div>
               <div className="info-tab__version-number">
                 { this.state.version }

@@ -37,7 +37,7 @@ CoinbaseForm.prototype.render = function () {
     }, [
       h('button.btn-green', {
         onClick: this.toCoinbase.bind(this),
-      }, 'Continue to Coinbase'),
+      }, 'Continue to KondorExchange'),
 
       h('button.btn-red', {
         onClick: () => props.dispatch(actions.goHome()),

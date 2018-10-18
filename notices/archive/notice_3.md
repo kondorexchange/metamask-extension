@@ -1,11 +1,15 @@
-Please take a moment to [back up your seed phrase again](https://support.metamask.io/kb/article/28-abbu-always-be-backed-up-how-to-make-sure-your-12-word-metamask-seed-phrase-is-backed-up).
+Por favor tómese un momento para hacer [una copia de seguridad de su frase original nuevamente].
 
-MetaMask has become aware of a previous issue where a very small number of users were shown the wrong seed phrase to back up. The only way to protect yourself from this issue, is to back up your seed phrase again now.
+Kondor-Wallet se ha dado cuenta de un problema anterior en el que a un número muy reducido de usuarios se les mostraba la frase de partida equivocada para hacer una copia de seguridad. 
 
-You can follow the guide at this link:
+La única forma de protegerse de este problema es hacer una copia de seguridad de su frase inicial nuevamente.
 
-[https://support.metamask.io/kb/article/28-abbu-always-be-backed-up-how-to-make-sure-your-12-word-metamask-seed-phrase-is-backed-up](https://support.metamask.io/kb/article/28-abbu-always-be-backed-up-how-to-make-sure-your-12-word-metamask-seed-phrase-is-backed-up)
+Puedes seguir la guía en este enlace:
 
-We have fixed the known issue, but will be issuing ongoing bug bounties to help prevent this kind of problem in the future.
+[https://www.kondorexchange.com/kondorwallet-12word/](https://www.kondorexchange.com/kondorwallet-12word/)
 
-For more information on this issue, [see this blog post](https://medium.com/metamask/seed-phrase-issue-bounty-awarded-e1986e811021)
+
+Hemos solucionado el problema conocido, pero emitiremos recompensas continuas de errores para ayudar a prevenir este tipo de problema en el futuro.
+
+Para obtener más información sobre este tema, [consulte esta publicación de blog](https://www.kondorexchange.com/kondorwallet-seed-phrase/)
+

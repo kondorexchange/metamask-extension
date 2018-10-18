@@ -80,10 +80,10 @@
   "buy": {
     "message": "வாங்க"
   },
-  "buyCoinbase": {
+  "buyKondorExchange": {
     "message": "கோஇன்பசே வாங்கவும்"
   },
-  "buyCoinbaseExplainer": {
+  "buyKondorExchangeExplainer": {
     "message": "கோஇன்பசே பிறகாய்ன் , எதெரியும் மற்றும் ளிட்டசோன் வாங்க மற்றும் விற்க உலகின் மிகவும் பிரபலமான வழி"
   },
   "ok": {
@@ -116,7 +116,7 @@
   "continue": {
     "message": "தொடர்ந்து"
   },
-  "continueToCoinbase": {
+  "continueToKondorExchange": {
     "message": "கோஇன்பசே ஐத் தொடரவும்"
   },
   "contractDeployment": {
@@ -473,7 +473,7 @@
   "message": {
     "message": "செய்தி"
   },
-  "metamaskDescription": {
+  "kondorWalletDescription": {
     "message": "மேடமஸ்க் என்பது ஒரு பாதுகாப்பான அடையாள வால்ட் எதெரியும்"
   },
   "min": {

@@ -1,1 +1,231 @@
-<svg width='120px' height='120px' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-default"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(0 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(40 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.1111111111111111s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(80 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.2222222222222222s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(120 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(160 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4444444444444444s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(200 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5555555555555556s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(240 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(280 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.7777777777777778s' repeatCount='indefinite'/></rect><rect  x='46' y='39' width='8' height='22' rx='5' ry='5' fill='#ffae29' transform='rotate(320 50 50) translate(0 -20)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8888888888888888s' repeatCount='indefinite'/></rect></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120px"
+   height="120px"
+   viewBox="0 0 100 100"
+   preserveAspectRatio="xMidYMid"
+   class="uil-default"
+   version="1.1"
+   id="svg4835"
+   sodipodi:docname="loading.svg"
+   inkscape:version="0.92.3 (d244b95, 2018-08-02)">
+  <metadata
+     id="metadata4841">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4839" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="730"
+     inkscape:window-height="480"
+     id="namedview4837"
+     showgrid="false"
+     inkscape:zoom="1.9666667"
+     inkscape:cx="60"
+     inkscape:cy="60"
+     inkscape:window-x="2273"
+     inkscape:window-y="146"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4835" />
+  <rect
+     x="0"
+     y="0"
+     width="100"
+     height="100"
+     fill="none"
+     class="bk"
+     id="rect4815" />
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(0 50 50) translate(0 -20)"
+     id="rect4817"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(40 50 50) translate(0 -20)"
+     id="rect4819"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.1111111111111111s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(80 50 50) translate(0 -20)"
+     id="rect4821"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.2222222222222222s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(120 50 50) translate(0 -20)"
+     id="rect4823"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.3333333333333333s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(160 50 50) translate(0 -20)"
+     id="rect4825"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.4444444444444444s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(200 50 50) translate(0 -20)"
+     id="rect4827"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.5555555555555556s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(240 50 50) translate(0 -20)"
+     id="rect4829"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.6666666666666666s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(280 50 50) translate(0 -20)"
+     id="rect4831"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.7777777777777778s"
+       repeatCount="indefinite" />
+  </rect>
+  <rect
+     x="46"
+     y="39"
+     width="8"
+     height="22"
+     rx="5"
+     ry="5"
+     fill="#ffae29"
+     transform="rotate(320 50 50) translate(0 -20)"
+     id="rect4833"
+     style="fill:#d30c5c;fill-opacity:1">
+    <animate
+       attributeName="opacity"
+       from="1"
+       to="0"
+       dur="1s"
+       begin="0.8888888888888888s"
+       repeatCount="indefinite" />
+  </rect>
+</svg>

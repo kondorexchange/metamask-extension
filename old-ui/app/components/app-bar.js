@@ -180,7 +180,7 @@ module.exports = class AppBar extends Component {
               barHeight: 2,
               padding: 0,
               isOpen: isMainMenuOpen,
-              color: 'rgb(247,146,30)',
+              color: 'rgb(211,12,92)',
               onClick: () => {
                 this.setState({
                   isMainMenuOpen: !isMainMenuOpen,

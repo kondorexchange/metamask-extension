@@ -49,8 +49,8 @@ function DepositEtherModal (props, context) {
   // need to set after i18n locale has loaded
   DIRECT_DEPOSIT_ROW_TITLE = context.t('directDepositEther')
   DIRECT_DEPOSIT_ROW_TEXT = context.t('directDepositEtherExplainer')
-  COINBASE_ROW_TITLE = context.t('buyCoinbase')
-  COINBASE_ROW_TEXT = context.t('buyCoinbaseExplainer')
+  COINBASE_ROW_TITLE = context.t('buyKondorExchange')
+  COINBASE_ROW_TEXT = context.t('buyKondorExchangeExplainer')
   SHAPESHIFT_ROW_TITLE = context.t('depositShapeShift')
   SHAPESHIFT_ROW_TEXT = context.t('depositShapeShiftExplainer')
   FAUCET_ROW_TITLE = context.t('testFaucet')
@@ -176,13 +176,13 @@ DepositEtherModal.prototype.render = function () {
         this.renderRow({
           logo: h('div.deposit-ether-modal__logo', {
             style: {
-              backgroundImage: 'url(\'./images/coinbase logo.png\')',
+              backgroundImage: 'url(\'./images/kondor_logo.png\')',
               height: '40px',
             },
           }),
           title: COINBASE_ROW_TITLE,
           text: COINBASE_ROW_TEXT,
-          buttonLabel: this.context.t('continueToCoinbase'),
+          buttonLabel: this.context.t('continueToKondorExchange'),
           onButtonClick: () => toCoinbase(address),
           hide: isTestNetwork || buyingWithShapeshift,
         }),

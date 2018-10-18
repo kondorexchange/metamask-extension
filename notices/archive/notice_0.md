@@ -1,179 +1,107 @@
-# Terms of Use #
+# Términos de Uso #
+**ESTE ACUERDO ESTÁ SUJETO A ARBITRAJE VINCULANTE Y A UNA EXENCIÓN DE DERECHOS DE ACCIÓN COLECTIVA, DETALLADO EN LA SECCIÓN 13. POR FAVOR LEA EL ACUERDO CUIDADOSAMENTE.**
+Nuestros Términos de uso se actualizaron a partir del 20 de octubre de 2018
+
+
+## 1. Aceptación de los términos ##
+Kondor proporciona una plataforma para administrar cuentas de Ethereum (o "ETH") y permite que los sitios web comunes interactúen con la blockchain de Ethereum, mientras el usuario mantiene bajo su control las transacciones que aprueba, a través de nuestro sitio web ubicado en [https://www.kondorexchange.com/](https://www.kondorexchange.com/) y el complemento del navegador (el "Sitio") - que incluye texto, imágenes, audio, código y otros materiales (colectivamente, el "Contenido") y todas las funciones y servicios proporcionados. El sitio, y cualquier otra característica, herramientas, materiales u otros servicios ofrecidos ocasionalmente por Kondor se denominan aquí "Servicio". Lea estos Términos de uso (los "Términos" o "Términos de uso") cuidadosamente antes de usar el Servicio. Al utilizar o acceder a los Servicios, o al hacer clic para aceptar o aceptar estos Términos cuando dicha opción esté disponible, usted (1) acepta y acepta estos Términos (2) consentimiento para la recopilación, uso, divulgación y otro manejo de información como se describe en nuestra Política de privacidad y (3) cualquier término, norma y condición de participación adicionales emitidos por Kondor de vez en cuando. Si no acepta los Términos, entonces no podrá acceder ni usar el Contenido o los Servicios.
+
+## 2. Modificación de los términos de uso ##
+A excepción de la Sección 13, que prevé el arbitraje vinculante y la renuncia a los derechos de acción colectiva, Kondor se reserva el derecho, a su sola discreción, de modificar o reemplazar los Términos de uso en cualquier momento. La versión más actual de estos Términos se publicará en nuestro Sitio. Usted será responsable de revisar y familiarizarse con tales modificaciones. El uso de los Servicios por parte de usted después de cualquier modificación de los Términos constituye su aceptación de los Términos de Uso modificados.
+
+## 3. Elegibilidad ##
+Por el presente, usted declara y garantiza que es plenamente capaz y competente para celebrar los términos, condiciones, obligaciones, afirmaciones, declaraciones y garantías establecidas en estos Términos y para cumplir y cumplir con estos Términos.
+Kondor es una plataforma global y, al acceder al Contenido o a los Servicios, usted declara y garantiza que es mayor de edad legal en su jurisdicción, como se requiere para acceder a dichos Servicios y Contenidos y celebrar los acuerdos estipulados por el Servicio. Además, declara que está legalmente autorizado a utilizar el servicio en su jurisdicción, incluida la posesión de tokens de valor criptográfico, y la interacción con los Servicios o el Contenido de cualquier manera. Además, declara que es responsable de garantizar el cumplimiento de las leyes de su jurisdicción y reconoce que Kondor no es responsable del cumplimiento de dichas leyes.
+
+## 4 Contraseña de la cuenta y seguridad ##
+Al configurar una cuenta dentro de Kondor, usted será responsable de guardar sus propios secretos de cuenta, que pueden ser una frase inicial de doce palabras, un archivo de cuenta u otra información secreta almacenada localmente. Kondor encripta esta información localmente con una contraseña que usted proporciona, que nunca enviamos a nuestros servidores. Usted acepta (a) nunca utilizar la misma contraseña para Kondor que haya utilizado alguna vez fuera de este servicio; (b) mantenga su información secreta y contraseña confidencial y no las comparta con nadie más; (c) notifique inmediatamente a Kondor sobre cualquier uso no autorizado de su cuenta o incumplimiento de seguridad. Kondor no puede ni será responsable de ninguna pérdida o daño que surja de su incumplimiento de esta sección.
+
+## 5. Representaciones, Garantías y Riesgos ##
+### 5.1. Renuncia a la garantía ###
+Usted comprende y acepta expresamente que su uso del Servicio es bajo su propio riesgo. El Servicio (incluido el Servicio y el Contenido) se proporciona "TAL CUAL" y "según disponibilidad", sin garantías de ningún tipo, ya sean expresas o implícitas, incluidas, entre otras, las garantías implícitas de comerciabilidad, idoneidad para un particular propósito o no infracción. Usted reconoce que Kondor no tiene control ni tiene la obligación de tomar ninguna medida con respecto a qué usuarios acceden o usan el Servicio; qué efectos puede tener el contenido sobre usted; cómo puede interpretar o usar el Contenido; o qué acciones puede tomar como resultado de haber estado expuesto al Contenido. Usted libera a Kondor de toda responsabilidad por el hecho de que haya adquirido o no Contenido a través del Servicio. Kondor no hace representaciones con respecto a cualquier Contenido incluido en el Servicio o al que se acceda a través del mismo, y Kondor no será responsable de la precisión, el cumplimiento de los derechos de autor, la legalidad o la decencia del material contenido o al que se accede a través del Servicio.
+### 5.2 Sofisticación y riesgo de los sistemas criptográficos ###
+Al utilizar el Servicio o interactuar con el Contenido o la plataforma de cualquier forma, usted declara que comprende los riesgos inherentes asociados con los sistemas criptográficos; y garantiza que comprende el uso y las complejidades de los tokens criptográficos nativos, como Ether (ETH) y Bitcoin (BTC), los tokens inteligentes basados ​​en contratos, como los que siguen el estándar Token de Ethereum (https://github.com/ethereum/EIPs/issues/20) y sistemas de software basados ​​en blockchain.
+### 5.3 Riesgo de acciones regulatorias en una o más jurisdicciones ###
+Kondor y ETH podrían verse afectados por una o más consultas regulatorias o medidas regulatorias, que podrían impedir o limitar la capacidad de Kondor para continuar desarrollándose, o que podrían impedir o limitar su capacidad de acceder o utilizar el Servicio o la cadena de bloques Ethereum.
+### 5.4 Riesgo de debilidades o vulnerabilidades en el campo de la criptografía ###
+Usted reconoce y comprende que Criptografía es un campo progresivo. Los avances en el descifrado de códigos o los avances técnicos, como el desarrollo de computadoras cuánticas, pueden presentar riesgos para las criptomonedas y los Servicios de contenido, lo que podría ocasionar el robo o la pérdida de sus tokens o propiedades criptográficas. En la medida de lo posible, Kondor tiene la intención de actualizar el protocolo de los Servicios subyacentes para dar cuenta de los avances en la criptografía e incorporar medidas de seguridad adicionales, pero no garantiza ni representa la seguridad total del sistema. Al usar el Servicio o acceder al Contenido, usted reconoce estos riesgos inherentes.
+### 5.5 Volatilidad de Crypto Currencies ###
+Usted comprende que Ethereum y otras tecnologías de blockchain y monedas asociadas o tokens son altamente volátiles debido a muchos factores, incluidos, entre otros, la adopción, la especulación, la tecnología y los riesgos de seguridad. También reconoce que el costo de realizar transacciones en dichas tecnologías es variable y puede aumentar en cualquier momento y causar un impacto en las actividades que se lleven a cabo en la cadena de bloques de Ethereum. Usted reconoce estos riesgos y declara que Kondor no se hace responsable de tales fluctuaciones o mayores costos.
+### 5.6 Seguridad de la aplicación ###
+Usted reconoce que las aplicaciones de Ethereum están sujetas a defectos y reconoce que usted es el único responsable de evaluar cualquier código proporcionado por los Servicios o el Contenido y la confiabilidad de sitios web de terceros, productos, contratos inteligentes o Contenido al que acceda o use a través de el servicio. Además, reconoce y representa expresamente que las aplicaciones de Ethereum pueden escribirse con malicia o negligencia, que Kondor no se hace responsable de su interacción con dichas aplicaciones y que dichas aplicaciones pueden causar la pérdida de propiedad o incluso de identidad. Esta advertencia y otras posteriores proporcionadas por Kondor de ninguna manera constituyen evidencia o representan un deber en curso para alertarlo sobre todos los riesgos potenciales de utilizar el Servicio o el Contenido.
+
+## 6. Indemnización ##
+Usted acepta liberar e indemnizar, defender y mantener indemne a Kondor y sus empresas matrices, subsidiarias, afiliadas y agencias, así como a los funcionarios, directores, empleados, accionistas y representantes de cualquiera de las entidades anteriores, desde y contra todas las pérdidas, responsabilidades, gastos, daños, costos (incluidos honorarios de abogados y costas judiciales) reclamos o acciones de cualquier tipo que surjan o resulten de su uso del Servicio, su violación de estos Términos de Uso y cualquiera de sus actos u omisiones que implicar derechos de publicidad, difamación o invasión de la privacidad. Kondor se reserva el derecho, a su cargo, de asumir la defensa y el control exclusivos de cualquier asunto sujeto a indemnización por su parte y, en tal caso, usted acepta cooperar con Kondor en la defensa de dicho asunto.
+
+## 7. Limitación de responsabilidad ##
+USTED RECONOCE Y ACEPTA QUE USTED ASUME LA RESPONSABILIDAD TOTAL POR EL USO DEL SITIO Y DEL SERVICIO. USTED RECONOCE Y ACEPTA QUE CUALQUIER INFORMACIÓN QUE ENVÍE O RECIBA DURANTE SU USO DEL SITIO Y EL SERVICIO PUEDE NO SER SEGURA Y PUEDE SER INTERCEPTADA O POSTERIORMENTE ADQUIRIDA POR PARTES NO AUTORIZADAS. USTED RECONOCE Y ACEPTA QUE SU USO DEL SITIO Y EL SERVICIO ES BAJO SU PROPIO RIESGO. RECONOCIENDO TAL, ENTIENDES Y ACEPTAS QUE, HASTA EL GRADO MÁXIMO PERMITIDO POR LA LEY APLICABLE, NI Kondor NI SUS PROVEEDORES O LICENCIATARIOS SERÁN RESPONSABLES ANTE USTED POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, CONSECUENTES, PUNITIVOS, EJEMPLARES O DE OTRO TIPO. TIPO, INCLUIDOS, SIN LIMITACIONES, DAÑOS POR PÉRDIDA DE BENEFICIOS, PAGO, USO, DATOS U OTRAS PÉRDIDAS TANGIBLES O INTANGIBLES O CUALQUIER OTRO DAÑO BASADO EN CONTRATO, AGRAVIO, RESPONSABILIDAD ESTRICTA O CUALQUIER OTRA TEORÍA (AUN SI Kondor HUBIESE SIDO ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS), RESULTANTE DEL SITIO O SERVICIO; EL USO O LA INCAPACIDAD DE USAR EL SITIO O SERVICIO; ACCESO NO AUTORIZADO O ALTERACIÓN DE SUS TRANSMISIONES O DATOS; DECLARACIONES O CONDUCTA DE CUALQUIER TERCERO EN EL SITIO O SERVICIO; CUALQUIER ACCIÓN QUE TOMAMOS O NO TOMAMOS COMO RESULTADO DE COMUNICACIONES QUE NOS ENVÍA; ERRORES HUMANOS; MALFUNCIONES TÉCNICAS; FALTAS, INCLUIDAS LAS CANCELACIONES DE SERVICIOS PÚBLICOS O TELEFÓNICOS; OMISIONES, INTERRUPCIONES, LETENCIAS, DELEGIONES O DEFECTOS DE CUALQUIER DISPOSITIVO O RED, PROVEEDORES O SOFTWARE (INCLUIDOS, ENTRE OTROS, LOS QUE NO PERMITAN LA PARTICIPACIÓN EN EL SERVICIO); CUALQUIER LESIÓN O DAÑO AL EQUIPO DE COMPUTACIÓN; INCAPACIDAD PARA ACCEDER COMPLETAMENTE AL SITIO O SERVICIO O CUALQUIER OTRO SITIO WEB; ROBO, manipulación, destrucción o acceso no autorizado a imágenes u otro contenido de cualquier tipo; DATOS QUE SE PROCESAN TARDE O INCORRECTAMENTE O SON INCOMPLETOS O PERDIDOS; ERRORES TIPOGRÁFICOS, DE IMPRESIÓN U OTROS, O CUALQUIER COMBINACIÓN DE LOS MISMOS; O CUALQUIER OTRO ASUNTO RELACIONADO CON EL SITIO O EL SERVICIO.
+ALGUNAS JURISDICCIONES NO PERMITEN LA EXCLUSIÓN DE DETERMINADAS GARANTÍAS O LA LIMITACIÓN O EXCLUSIÓN DE RESPONSABILIDAD POR DAÑOS INCIDENTALES O CONSECUENCIALES. POR CONSIGUIENTE, ALGUNAS DE LAS LIMITACIONES ANTEDICHAS PUEDEN NO APLICARSE A USTED.
+
+## 8. Nuestros derechos de propiedad ##
+Todos los títulos, propiedad y derechos de propiedad intelectual en y para el Servicio son propiedad de Kondor o sus licenciantes. Usted reconoce y acepta que el Servicio contiene información patentada y confidencial que está protegida por la propiedad intelectual aplicable y otras leyes. Excepto por lo autorizado expresamente por Kondor, usted acepta no copiar, modificar, alquilar, arrendar, prestar, vender, distribuir, ejecutar, exhibir o crear trabajos derivados basados ​​en el Servicio, en todo o en parte. Kondor emite una licencia para Kondor, que se encuentra aquí. Para obtener información sobre otras licencias utilizadas en el desarrollo de Kondor, consulte nuestra página de atribución en: [https://www.kondorexchange.com/kondorwallet-attributions/](https://www.kondorexchange.com/kondorwallet-attributions/)
+
+## 9. Enlaces ##
+El Servicio proporciona, o terceros pueden proporcionar, enlaces a otros sitios, aplicaciones o recursos de la World Wide Web. Debido a que Kondor no tiene control sobre dichos sitios, aplicaciones y recursos, usted reconoce y acepta que Kondor no es responsable de la disponibilidad de dichos sitios, aplicaciones o recursos externos, y no respalda y no es responsable de ningún contenido, publicidad, productos u otros materiales en o disponibles en dichos sitios o recursos. Además, reconoce y acepta que Kondor no será responsable, directa o indirectamente, de ningún daño o pérdida causada o supuestamente causada por o en relación con el uso o la dependencia de dicho contenido, bienes o servicios disponibles en o a través de cualquier sitio o recurso
+
+## 10. Terminación y suspensión ##
+Kondor puede rescindir o suspender la totalidad o parte del Servicio y su acceso a Kondor de forma inmediata, sin previo aviso ni responsabilidad, si incumple alguno de los términos y condiciones de los Términos. Tras la finalización de su acceso, su derecho a utilizar el Servicio cesará inmediatamente.
+Las siguientes disposiciones de los Términos sobreviven a la terminación de estos Términos: INDEMNIZACIÓN; GARANTÍA DESCARGOS DE RESPONSABILIDAD; LIMITACIÓN DE RESPONSABILIDAD; NUESTROS DERECHOS PROPIETARIOS; TERMINACIÓN; NO BENEFICIARIOS DE TERCEROS; ARBITRAJE VINCULANTE Y RENUNCIA A ACCIÓN COLECTIVA; INFORMACIÓN GENERAL.
+
+## 11. No terceros beneficiarios ##
+Usted acepta que, salvo que se estipule lo contrario en estos Términos, no habrá terceros beneficiarios de los Términos.
+## 12. Aviso y procedimiento para hacer reclamos por infracción de derechos de autor ##
+Si cree que se han infringido sus derechos de autor o los derechos de autor de una persona en cuyo nombre está autorizado a actuar, proporcione al Agente de derechos de autor de Kondor una Notificación escrita que contenga la siguiente información:
+· Una firma electrónica o física de la persona autorizada para actuar en nombre del propietario del derecho de autor u otro interés de propiedad intelectual;
+· Una descripción de la obra protegida por derechos de autor u otra propiedad intelectual que usted reclama ha sido violada;
+· Una descripción de dónde se encuentra el material que usted declara infractor en el Servicio;
+· Su dirección, número de teléfono y dirección de correo electrónico;
+· Una declaración de que usted cree de buena fe que el uso en disputa no está autorizado por el propietario de los derechos de autor, su agente o la ley;
+· Una declaración suya, hecha bajo pena de perjurio, de que la información anterior en su Aviso es precisa y que usted es el propietario de los derechos de autor o propiedad intelectual o está autorizado a actuar en nombre del propietario de los derechos de autor o de la propiedad intelectual.
+El agente de derechos de autor de Kondor puede ser contactado en:
+Correo electrónico: copyright@kondorexchange.com
+Correo:
+Atención
+Copyright de KondorExchange 
+San Martín 439 Piso 3
+Buenos Aires, 1004
+
+## 13. Renuncia obligatoria de arbitraje y demanda colectiva ##
+LEA ESTA SECCIÓN CUIDADOSAMENTE: PUEDE AFECTAR SIGNIFICATIVAMENTE SUS DERECHOS LEGALES, INCLUYENDO SU DERECHO A PRESENTAR UNA DEMANDA EN EL TRIBUNAL
+### 13.1 Resolución inicial de disputas ###
+Las partes harán todo lo posible para comprometerse directamente a resolver cualquier disputa, reclamo, pregunta o desacuerdo y entablar negociaciones de buena fe que serán una condición para que cualquiera de las partes inicie una demanda o un arbitraje.
+### 13.2 Arbitraje vinculante ###
+Si las partes no llegan a una solución acordada dentro de un período de 30 días desde el momento en que comienza la resolución informal de disputas según la disposición de Resolución Inicial de Disputas, cualquiera de las partes puede iniciar el arbitraje vinculante como único medio para resolver reclamaciones, sujeto a los términos establecidos adelante a continuación. Específicamente, todos los reclamos que surjan o estén relacionados con estos Términos (incluida su formación, desempeño e incumplimiento), la relación de las partes entre sí y / o su uso del Servicio se resolverá finalmente mediante arbitraje vinculante administrado por la Asociación Argentina de Arbitraje de acuerdo con las disposiciones de sus Reglas de Arbitraje Comercial y los procedimientos complementarios para las disputas relacionadas con el consumidor de la Asociación Aargentina de Arbitraje (la "AAA"), excluyendo cualquier norma o procedimiento que rija o permita las acciones colectivas.
+El árbitro, y no cualquier tribunal o agencia federal, estatal o local, tendrá autoridad exclusiva para resolver todas las disputas que surjan de o se relacionen con la interpretación, aplicabilidad, exigibilidad o formación de estos Términos, lo que incluye, entre otros, cualquier reclamo que todo o parte de estos Términos son nulos o anulables, o si un reclamo está sujeto a arbitraje. El árbitro estará facultado para otorgar cualquier compensación disponible en un tribunal según la ley o en equidad. El laudo del árbitro se redactará y será vinculante para las partes y se podrá ingresar como un fallo en cualquier tribunal de jurisdicción competente.
+Las partes entienden que, en ausencia de esta disposición obligatoria, tendrían el derecho de demandar ante un tribunal y tener un juicio por jurado. Además, entienden que, en algunos casos, los costos del arbitraje podrían exceder los costos del litigio y el derecho de descubrimiento puede ser más limitado en el arbitraje que en los tribunales.
+### 13.3 Ubicación ###
+El arbitraje obligatorio tendrá lugar en Buenos Aires. Usted acuerda someterse a la jurisdicción personal de cualquier tribunal federal o estatal en Buenos Aires, para obligar el arbitraje, suspender los procedimientos pendientes de arbitraje, o confirmar, modificar, anular o emitir un fallo sobre el laudo emitido por el árbitro.
+
+### 13.4 Renuncia de acción colectiva ###
+Las partes acuerdan además que cualquier arbitraje se llevará a cabo a título individual y no como una demanda colectiva u otra acción representativa, y las partes renuncian expresamente a su derecho de presentar una demanda colectiva o solicitar una reparación sobre una base de clase. USTED Y DE ACUERDO Kondor que cada uno pueda formular reclamación alguna contra el otro sólo EN SU TÍTULO PERSONAL, Y NO COMO demandante o COLECTIVA EN CUALQUIER CLASE o procedimiento representativo. Si un tribunal o árbitro determina que el relevo de acción de clase expuesto en este párrafo es nula o inaplicable por cualquier razón, o que un arbitraje puede proceder sobre una base de clase, entonces la disposición de arbitraje establecido anteriormente, se considerará nula y sin efecto en su totalidad y se considerará que las partes no han acordado arbitrar disputas.
+### 13.5 Excepción: Litigios de propiedad intelectual y reclamaciones de tribunales de reclamos menores ### 
+A pesar de la decisión de las partes de resolver todas las disputas a través del arbitraje, cualquiera de las partes puede entablar una acción en un tribunal estatal o federal para proteger sus derechos de propiedad intelectual ("derechos de propiedad intelectual" significa patentes, derechos de autor, derechos morales, marcas comerciales y secretos comerciales, pero no privacidad o derechos de publicidad). Cualquiera de las partes también puede solicitar reparación en un tribunal de reclamos menores por disputas o reclamos dentro del alcance de la jurisdicción de ese tribunal.
+### 13.6 Derecho de exclusión de 30 días ###
+Usted tiene el derecho de optar por no estar obligado por las disposiciones sobre la renuncia de arbitraje y de acción de clase establecidos anteriormente mediante el envío de una notificación por escrito de su decisión de darse de baja en la siguiente dirección: Kondor, San Martín 439 Piso 3, Buenos Aires 1004 y por correo electrónico a soporte@kondorexchange.com. El aviso debe enviarse dentro de los 30 días posteriores al 6 de septiembre de 2016 o su primer uso del Servicio, el que sea posterior, de lo contrario estará obligado a arbitrar disputas de conformidad con los términos de esos párrafos. Si opta por no recibir estas disposiciones de arbitraje, Kondor tampoco estará obligado por ellas.
+### 13.7 Cambios a esta sección ###
+Kondor notificará con 60 días de anticipación cualquier cambio a esta sección. Los cambios entrarán en vigencia el día 60 y se aplicarán prospectivamente solo a los reclamos que surjan después del día 60.
+Para cualquier disputa no sujeta a arbitraje, usted y Kondor acuerdan someterse a la jurisdicción personal y exclusiva de los tribunales federales y estatales ubicados en Buenos Aires. Además, acepta aceptar el servicio del proceso por correo y, por lo tanto, renuncia a todas y cada una de las defensas jurisdiccionales y de sede que estén disponibles.
+Los Términos y la relación entre usted y Kondor se regirán por las leyes argentinas sin tener en cuenta las disposiciones sobre conflicto de leyes.
+
+## 14. Información general ##
+### 14.1 Acuerdo completo ###
+Estos Términos (y los términos, reglas y condiciones de participación adicionales que Kondor puede publicar en el Servicio) constituyen el acuerdo completo entre usted y Kondor con respecto al Servicio y reemplaza cualquier acuerdo anterior, oral o escrito, entre usted y Kondor. En caso de conflicto entre estos Términos y los términos, reglas y condiciones de participación adicionales, este último prevalecerá sobre los Términos en la medida del conflicto.
+### 14.2 Renuncia y separabilidad de los términos ###
+El hecho de que Kondor no ejerza o haga cumplir algún derecho o disposición de los Términos no constituirá una renuncia a dicho derecho o disposición. Si una disposición de los Términos es encontrada inválida por un árbitro o tribunal de jurisdicción competente, las partes acuerdan que el árbitro o el tribunal deben esforzarse por hacer efectivas las intenciones de las partes tal como se refleja en la disposición y las demás disposiciones de los Términos permanecen en pleno vigor y efecto.
+### 14.3 Estatuto de Limitaciones ###
+Usted acepta que independientemente de cualquier estatuto o ley en contrario, cualquier reclamo o causa de acción que surja o esté relacionada con el uso del Servicio o los Términos debe presentarse dentro de un (1) año después de que surgió dicho reclamo o causa de acción o será prohibida por siempre.
+### 14.4 Títulos de sección ###
+Los títulos de las secciones en los Términos son solo por conveniencia y no tienen ningún efecto legal o contractual.
+### 14.5 Comunicaciones ###
+Los usuarios con preguntas, quejas o reclamos con respecto al Servicio pueden contactarnos utilizando la información de contacto relevante establecida anteriormente y en soporte@kondorexchange.com
+
+## 15 Enlaces relacionados ##
 
-**THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13. PLEASE READ THE AGREEMENT CAREFULLY.**
+**[Términos de Uso](https://www.kondorexchange.com/kondorwallet-terms/)**
+**[Privacidad](https://www.kondorexchange.com/kondorwallet-privacy/)**
+**[Atribuciones](https://www.kondorexchange.com/kondorwallet-attributions/)**
 
-_Our Terms of Use have been updated as of September 5, 2016_
-
-## 1. Acceptance of Terms ##
-
-MetaMask provides a platform for managing Ethereum (or "ETH") accounts, and allowing ordinary websites to interact with the Ethereum blockchain, while keeping the user in control over what transactions they approve, through our website located at[ ](http://metamask.io)[https://metamask.io/](https://metamask.io/) and browser plugin (the "Site") — which includes text, images, audio, code and other materials  (collectively, the “Content”) and all of the features, and services provided. The Site, and any other features, tools, materials, or other services offered from time to time by MetaMask are referred to here as the “Service.” Please read these Terms of Use (the “Terms” or “Terms of Use”) carefully before using the Service. By using or otherwise accessing the Services, or clicking to accept or agree to these Terms where that option is made available, you (1) accept and agree to these Terms (2) consent to the collection, use, disclosure and other handling of information as described in our Privacy Policy  and (3) any additional terms, rules and conditions of participation issued by MetaMask from time to time. If you do not agree to the Terms, then you may not access or use the Content or Services.
-
-## 2. Modification of Terms of Use ##
-
-Except for Section 13, providing for binding arbitration and waiver of class action rights, MetaMask reserves the right, at its sole discretion, to modify or replace the Terms of Use at any time. The most current version of these Terms will be posted on our Site. You shall be responsible for reviewing and becoming familiar with any such modifications. Use of the Services by you after any modification to the Terms constitutes your acceptance of the Terms of Use as modified.
-
-
-
-## 3. Eligibility ##
-
-You hereby represent and warrant that you are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations and warranties set forth in these Terms and to abide by and comply with these Terms.
-
-MetaMask is a global platform and by accessing the Content or Services, you are representing and warranting that, you are of the legal age of majority in your jurisdiction as is required to access such Services and Content and enter into arrangements as provided by the Service. You further represent that you are otherwise legally permitted to use the service in your jurisdiction including owning cryptographic tokens of value, and interacting with the Services or Content in any way. You further represent you are responsible for ensuring compliance with the laws of your jurisdiction and acknowledge that MetaMask is not liable for your compliance with such laws.
-
-## 4 Account Password and Security ##
-
-When setting up an account within MetaMask, you will be responsible for keeping your own account secrets, which may be a twelve-word seed phrase, an account file, or other locally stored secret information. MetaMask encrypts this information locally with a password you provide, that we never send to our servers. You agree to (a) never use the same password for MetaMask that you have ever used outside of this service; (b) keep your secret information and password confidential and do not share them with anyone else; (c) immediately notify MetaMask of any unauthorized use of your account or breach of security. MetaMask cannot and will not be liable for any loss or damage arising from your failure to comply with this section.
-
-## 5. Representations, Warranties, and Risks ##
-
-### 5.1. Warranty Disclaimer ###
-
-You expressly understand and agree that your use of the Service is at your sole risk. The Service (including the Service and the Content) are provided on an "AS IS" and "as available" basis, without warranties of any kind, either express or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose or non-infringement. You acknowledge that MetaMask has no control over, and no duty to take any action regarding: which users gain access to or use the Service; what effects the Content may have on you; how you may interpret or use the Content; or what actions you may take as a result of having been exposed to the Content. You release MetaMask from all liability for you having acquired or not acquired Content through the Service. MetaMask makes no representations concerning any Content contained in or accessed through the Service, and MetaMask will not be responsible or liable for the accuracy, copyright compliance, legality or decency of material contained in or accessed through the Service.
-
-### 5.2 Sophistication and Risk of Cryptographic Systems ###
-
-By utilizing the Service or interacting with the Content or platform in any way, you represent that you understand the inherent risks associated with cryptographic systems; and warrant that you have an understanding of the usage and intricacies of native cryptographic tokens, like Ether (ETH) and Bitcoin (BTC), smart contract based tokens such as those that follow the Ethereum Token Standard (https://github.com/ethereum/EIPs/issues/20), and blockchain-based software systems.
-
-### 5.3 Risk of Regulatory Actions in One or More Jurisdictions ###
-
-MetaMask and ETH could be impacted by one or more regulatory inquiries or regulatory action, which could impede or limit the ability of MetaMask to continue to develop, or which could impede or limit your ability to access or use the Service or Ethereum blockchain.
-
-### 5.4 Risk of Weaknesses or Exploits in the Field of Cryptography ###
-
-You acknowledge and understand that Cryptography is a progressing field. Advances in code cracking or technical advances such as the development of quantum computers may present risks to cryptocurrencies and Services of Content, which could result in the theft or loss of your cryptographic tokens or property. To the extent possible, MetaMask intends to update the protocol underlying Services to account for any advances in cryptography and to incorporate additional security measures, but does not guarantee or otherwise represent full security of the system. By using the Service or accessing Content, you acknowledge these inherent risks.
-
-### 5.5 Volatility of Crypto Currencies ###
-
-You understand that Ethereum and other blockchain technologies and associated currencies or tokens are highly volatile due to many factors including but not limited to adoption, speculation, technology and security risks. You also acknowledge that the cost of transacting on such technologies is variable and may increase at any time causing impact to any activities taking place on the Ethereum blockchain. You acknowledge these risks and represent that MetaMask cannot be held liable for such fluctuations or increased costs.
-
-### 5.6 Application Security ###
-
-You acknowledge that Ethereum applications are code subject to flaws and acknowledge that you are solely responsible for evaluating any code provided by the Services or Content and the trustworthiness of any third-party websites, products, smart-contracts, or Content you access or use through the Service. You further expressly acknowledge and represent that Ethereum applications can be written maliciously or negligently, that MetaMask cannot be held liable for your interaction with such applications and that such applications may cause the loss of property or even identity. This warning and others later provided by MetaMask in no way evidence or represent an on-going duty to alert you to all of the potential risks of utilizing the Service or Content.
-
-## 6. Indemnity ##
-
-You agree to release and to indemnify, defend and hold harmless MetaMask and its parents, subsidiaries, affiliates and agencies, as well as the officers, directors, employees, shareholders and representatives of any of the foregoing entities, from and against any and all losses, liabilities, expenses, damages, costs (including attorneys’ fees and court costs) claims or actions of any kind whatsoever arising or resulting from your use of the Service, your violation of these Terms of Use, and any of your acts or omissions that implicate publicity rights, defamation or invasion of privacy. MetaMask reserves the right, at its own expense, to assume exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with MetaMask in the defense of such matter.
-
-## 7. Limitation on liability ##
-
-YOU ACKNOWLEDGE AND AGREE THAT YOU ASSUME FULL RESPONSIBILITY FOR YOUR USE OF THE SITE AND SERVICE. YOU ACKNOWLEDGE AND AGREE THAT ANY INFORMATION YOU SEND OR RECEIVE DURING YOUR USE OF THE SITE AND SERVICE MAY NOT BE SECURE AND MAY BE INTERCEPTED OR LATER ACQUIRED BY UNAUTHORIZED PARTIES. YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE SITE AND SERVICE IS AT YOUR OWN RISK. RECOGNIZING SUCH, YOU UNDERSTAND AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER METAMASK NOR ITS SUPPLIERS OR LICENSORS WILL BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY OR OTHER DAMAGES OF ANY KIND, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER TANGIBLE OR INTANGIBLE LOSSES OR ANY OTHER DAMAGES BASED ON CONTRACT, TORT, STRICT LIABILITY OR ANY OTHER THEORY (EVEN IF METAMASK HAD BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM THE SITE OR SERVICE; THE USE OR THE INABILITY TO USE THE SITE OR SERVICE; UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SITE OR SERVICE; ANY ACTIONS WE TAKE OR FAIL TO TAKE AS A RESULT OF COMMUNICATIONS YOU SEND TO US; HUMAN ERRORS; TECHNICAL MALFUNCTIONS; FAILURES, INCLUDING PUBLIC UTILITY OR TELEPHONE OUTAGES; OMISSIONS, INTERRUPTIONS, LATENCY, DELETIONS OR DEFECTS OF ANY DEVICE OR NETWORK, PROVIDERS, OR SOFTWARE (INCLUDING, BUT NOT LIMITED TO, THOSE THAT DO NOT PERMIT PARTICIPATION IN THE SERVICE); ANY INJURY OR DAMAGE TO COMPUTER EQUIPMENT; INABILITY TO FULLY ACCESS THE SITE OR SERVICE OR ANY OTHER WEBSITE; THEFT, TAMPERING, DESTRUCTION, OR UNAUTHORIZED ACCESS TO, IMAGES OR OTHER CONTENT OF ANY KIND; DATA THAT IS PROCESSED LATE OR INCORRECTLY OR IS INCOMPLETE OR LOST; TYPOGRAPHICAL, PRINTING OR OTHER ERRORS, OR ANY COMBINATION THEREOF; OR ANY OTHER MATTER RELATING TO THE SITE OR SERVICE.
-
-SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
-
-## 8. Our Proprietary Rights ##
-
-All title, ownership and intellectual property rights in and to the Service are owned by MetaMask or its licensors. You acknowledge and agree that the Service contains proprietary and confidential information that is protected by applicable intellectual property and other laws. Except as expressly authorized by MetaMask, you agree not to copy, modify, rent, lease, loan, sell, distribute, perform, display or create derivative works based on the Service, in whole or in part. MetaMask issues a license for MetaMask, found [here](https://github.com/MetaMask/metamask-plugin/blob/master/LICENSE). For information on other licenses utilized in the development of MetaMask, please see our attribution page at: [https://metamask.io/attributions.html](https://metamask.io/attributions.html)
-
-## 9. Links ##
-
-The Service provides, or third parties may provide, links to other World Wide Web  or accessible sites, applications or resources. Because MetaMask has no control over such sites, applications and resources, you acknowledge and agree that MetaMask is not responsible for the availability of such external sites, applications or resources, and does not endorse and is not responsible or liable for any content, advertising, products or other materials on or available from such sites or resources. You further acknowledge and agree that MetaMask shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
-
-## 10. Termination and Suspension ##
-
-MetaMask may terminate or suspend all or part of the Service and your MetaMask access immediately, without prior notice or liability, if you breach any of the terms or conditions of the Terms. Upon termination of your access, your right to use the Service will immediately cease.
-
-The following provisions of the Terms survive any termination of these Terms: INDEMNITY; WARRANTY DISCLAIMERS; LIMITATION ON LIABILITY; OUR PROPRIETARY RIGHTS; LINKS; TERMINATION; NO THIRD PARTY BENEFICIARIES; BINDING ARBITRATION AND CLASS ACTION WAIVER; GENERAL INFORMATION.
-
-## 11. No Third Party Beneficiaries ##
-
-You agree that, except as otherwise expressly provided in these Terms, there shall be no third party beneficiaries to the Terms.
-
-## 12. Notice and Procedure For Making Claims of Copyright Infringement ##
-
-If you believe that your copyright or the copyright of a person on whose behalf you are authorized to act has been infringed, please provide MetaMask’s Copyright Agent a written Notice containing the following information:
-
-· an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
-
-· a description of the copyrighted work or other intellectual property that you claim has been infringed;
-
-· a description of where the material that you claim is infringing is located on the Service;
-
-· your address, telephone number, and email address;
-
-· a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-
-· a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
-
-MetaMask’s Copyright Agent can be reached at:
-
-Email: copyright [at] metamask [dot] io
-
-Mail:
-
-Attention:
-
-MetaMask Copyright ℅ ConsenSys
-
-49 Bogart Street
-
-Brooklyn, NY 11206
-
-## 13. Binding Arbitration and Class Action Waiver ##
-
-PLEASE READ THIS SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT
-
-### 13.1 Initial Dispute Resolution ###
-
-The parties shall use their best efforts to engage directly to settle any dispute, claim, question, or disagreement and engage in good faith negotiations which shall be a condition to either party initiating a lawsuit or arbitration.
-
-### 13.2 Binding Arbitration ###
-
-If the parties do not reach an agreed upon solution within a period of 30 days from the time informal dispute resolution under the Initial Dispute Resolution provision begins, then either party may initiate binding arbitration as the sole means to resolve claims, subject to the terms set forth below. Specifically, all claims arising out of or relating to these Terms (including their formation, performance and breach), the parties’ relationship with each other and/or your use of the Service shall be finally settled by binding arbitration administered by the American Arbitration Association in accordance with the provisions of its Commercial Arbitration Rules and the supplementary procedures for consumer related disputes of the American Arbitration Association (the "AAA"), excluding any rules or procedures governing or permitting class actions.
-
-The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of these Terms, including, but not limited to any claim that all or any part of these Terms are void or voidable, or whether a claim is subject to arbitration. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator’s award shall be written, and binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
-
-The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial. They further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and the right to discovery may be more limited in arbitration than in court.
-
-### 13.3 Location ###
-
-Binding arbitration shall take place in New York. You agree to submit to the personal jurisdiction of any federal or state court in New York County, New York, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate or enter judgment on the award entered by the arbitrator.
-
-### 13.4 Class Action Waiver ###
-
-The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis. YOU AND METAMASK AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.
-
-### 13.5 Exception - Litigation of Intellectual Property and Small Claims Court Claims ###
-
-Notwithstanding the parties' decision to resolve all disputes through arbitration, either party may bring an action in state or federal court to protect its intellectual property rights ("intellectual property rights" means patents, copyrights, moral rights, trademarks, and trade secrets, but not privacy or publicity rights). Either party may also seek relief in a small claims court for disputes or claims within the scope of that court’s jurisdiction.
-
-### 13.6 30-Day Right to Opt Out ###
-
-You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the following address: MetaMask ℅ ConsenSys, 49 Bogart Street, Brooklyn NY 11206 and via email at support@metamask.io. The notice must be sent within 30 days of September 6, 2016 or your first use of the Service, whichever is later, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, MetaMask also will not be bound by them.
-
-### 13.7 Changes to This Section ###
-
-MetaMask will provide 60-days’ notice of any changes to this section. Changes will become effective on the 60th day, and will apply prospectively only to any claims arising after the 60th day.
-
-For any dispute not subject to arbitration you and MetaMask agree to submit to the personal and exclusive jurisdiction of and venue in the federal and state courts located in New York, New York. You further agree to accept service of process by mail, and hereby waive any and all jurisdictional and venue defenses otherwise available.
-
-The Terms and the relationship between you and MetaMask shall be governed by the laws of the State of New York without regard to conflict of law provisions.
-
-## 14. General Information ##
-
-### 14.1 Entire Agreement ###
-
-These Terms (and any additional terms, rules and conditions of participation that MetaMask may post on the Service) constitute the entire agreement between you and MetaMask with respect to the Service and supersedes any prior agreements, oral or written, between you and MetaMask. In the event of a conflict between these Terms and the additional terms, rules and conditions of participation, the latter will prevail over the Terms to the extent of the conflict.
-
-### 14.2 Waiver and Severability of Terms ###
-
-The failure of MetaMask to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. If any provision of the Terms is found by an arbitrator or court of competent jurisdiction to be invalid, the parties nevertheless agree that the arbitrator or court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect.
-
-### 14.3 Statute of Limitations ###
-
-You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to the use of the Service or the Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred.
-
-### 14.4 Section Titles ###
-
-The section titles in the Terms are for convenience only and have no legal or contractual effect.
-
-### 14.5 Communications ###
-
-Users with questions, complaints or claims with respect to the Service may contact us using the relevant contact information set forth above and at communications@metamask.io.
-
-## 15 Related Links ##
-
-**[Terms of Use](https://metamask.io/terms.html)**
-
-**[Privacy](https://metamask.io/privacy.html)**
-
-**[Attributions](https://metamask.io/attributions.html)**

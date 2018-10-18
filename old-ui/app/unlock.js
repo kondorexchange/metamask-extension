@@ -6,7 +6,7 @@ const actions = require('../../ui/app/actions')
 const getCaretCoordinates = require('textarea-caret')
 const EventEmitter = require('events').EventEmitter
 
-const Mascot = require('./components/mascot')
+// const Mascot = require('./components/mascot')
 
 module.exports = connect(mapStateToProps)(UnlockScreen)
 
@@ -33,9 +33,9 @@ UnlockScreen.prototype.render = function () {
     }, [
       h('.unlock-screen.flex-column.flex-center.flex-grow', [
 
-        h(Mascot, {
-          animationEventEmitter: this.animationEventEmitter,
-        }),
+        h('img.mainlogo', {
+          src: 'images/logo/logo.png',
+           }),
 
         h('h1', {
           style: {
@@ -77,7 +77,7 @@ UnlockScreen.prototype.render = function () {
           onClick: () => this.props.dispatch(actions.forgotPassword()),
           style: {
             fontSize: '0.8em',
-            color: 'rgb(247, 134, 28)',
+            color: 'rgb(211,12,92)',
             textDecoration: 'underline',
           },
         }, 'Restore from seed phrase'),

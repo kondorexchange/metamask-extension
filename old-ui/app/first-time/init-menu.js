@@ -3,7 +3,7 @@ const EventEmitter = require('events').EventEmitter
 const Component = require('react').Component
 const connect = require('react-redux').connect
 const h = require('react-hyperscript')
-const Mascot = require('../components/mascot')
+//const Mascot = require('../components/mascot')
 const actions = require('../../../ui/app/actions')
 const Tooltip = require('../components/tooltip')
 const getCaretCoordinates = require('textarea-caret')
@@ -44,9 +44,9 @@ InitializeMenuScreen.prototype.renderMenu = function (state) {
 
     h('.initialize-screen.flex-column.flex-center.flex-grow', [
 
-      h(Mascot, {
-        animationEventEmitter: this.animationEventEmitter,
-      }),
+        h('img.mainlogo', {
+          src: 'images/logo/logo.png',
+           }),
 
       h('h1', {
         style: {
@@ -74,7 +74,7 @@ InitializeMenuScreen.prototype.renderMenu = function (state) {
             style: {
               fontSize: '18px',
               position: 'relative',
-              color: 'rgb(247, 134, 28)',
+              color: 'rgb(211,12,92)',
               top: '2px',
               marginLeft: '4px',
             },
@@ -122,7 +122,7 @@ InitializeMenuScreen.prototype.renderMenu = function (state) {
           onClick: this.showRestoreVault.bind(this),
           style: {
             fontSize: '0.8em',
-            color: 'rgb(247, 134, 28)',
+            color: 'rgb(211,12,92)',
             textDecoration: 'underline',
           },
         }, 'Import Existing DEN'),

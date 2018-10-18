@@ -108,12 +108,12 @@ export default class AppHeader extends PureComponent {
           >
             <img
               className="app-header__metafox-logo app-header__metafox-logo--horizontal"
-              src="/images/logo/metamask-logo-horizontal-beta.svg"
+              src="/images/logo/kondor-wallet-logo-horizontal-beta.svg"
               height={30}
             />
             <img
               className="app-header__metafox-logo app-header__metafox-logo--icon"
-              src="/images/logo/metamask-fox.svg"
+              src="/images/logo/kondor-fox.svg"
               height={42}
               width={42}
             />

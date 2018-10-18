@@ -36,7 +36,7 @@
     "message": "Add Suggested Tokens"
   },
   "addAcquiredTokens": {
-    "message": "Add the tokens you've acquired using MetaMask"
+    "message": "Add the tokens you've acquired using Kondor-Wallet"
   },
   "amount": {
     "message": "Amount"
@@ -49,7 +49,7 @@
     "description": "The description of the application"
   },
   "appName": {
-    "message": "MetaMask",
+    "message": "Kondor-Wallet",
     "description": "The name of the application"
   },
   "approve": {
@@ -96,16 +96,16 @@
   "message": "Your Browser is not supported..."
   },
   "builtInCalifornia": {
-    "message": "MetaMask is designed and built in California."
+    "message": "Kondor-Wallet is designed and built in California."
   },
   "buy": {
     "message": "Buy"
   },
-  "buyCoinbase": {
-    "message": "Buy on Coinbase"
+  "buyKondorExchange": {
+    "message": "Buy on KondorExchange"
   },
-  "buyCoinbaseExplainer": {
-    "message": "Coinbase is the world’s most popular way to buy and sell Bitcoin, Ethereum, and Litecoin."
+  "buyKondorExchangeExplainer": {
+    "message": "KondorExchange is to buy and sell Ethereum."
   },
   "bytes": {
     "message": "Bytes"
@@ -126,7 +126,7 @@
     "message": "Close"
   },
   "chromeRequiredForHardwareWallets":{
-    "message": "You need to use MetaMask on Google Chrome in order to connect to your Hardware Wallet."
+    "message": "You need to use Kondor-Wallet on Google Chrome in order to connect to your Hardware Wallet."
   },
   "confirm": {
     "message": "Confirm"
@@ -161,8 +161,8 @@
   "continue": {
     "message": "Continue"
   },
-  "continueToCoinbase": {
-    "message": "Continue to Coinbase"
+  "continueToKondorExchange": {
+    "message": "Continue to KondorExchange"
   },
   "contractDeployment": {
     "message": "Contract Deployment"
@@ -244,7 +244,7 @@
     "message": "The default network for Ether transactions is Main Net."
   },
   "denExplainer": {
-    "message": "Your DEN is your password-encrypted storage within MetaMask."
+    "message": "Your DEN is your password-encrypted storage within Kondor-Wallet."
   },
   "deposit": {
     "message": "Deposit"
@@ -272,7 +272,7 @@
     "message": "Deposit with ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "If you own other cryptocurrencies, you can trade and deposit Ether directly into your MetaMask wallet. No Account Needed."
+    "message": "If you own other cryptocurrencies, you can trade and deposit Ether directly into your Kondor-Wallet wallet. No Account Needed."
   },
   "details": {
     "message": "Details"
@@ -436,7 +436,7 @@
     "message": "Connect a hardware wallet"
   },
   "hardwareWalletsMsg": {
-    "message": "Select a hardware wallet you'd like to use with MetaMask"
+    "message": "Select a hardware wallet you'd like to use with Kondor-Wallet"
   },
   "havingTroubleConnecting": {
     "message": "Having trouble connecting?"
@@ -477,7 +477,7 @@
     "message": "Import Account"
   },
   "importAccountMsg": {
-    "message":" Imported accounts will not be associated with your originally created MetaMask account seedphrase. Learn more about imported accounts "
+    "message":" Imported accounts will not be associated with your originally created Kondor-Wallet account seedphrase. Learn more about imported accounts "
   },
   "importAnAccount": {
     "message": "Import an account"
@@ -533,7 +533,7 @@
     "description": "format for importing an account"
   },
   "keepTrackTokens": {
-    "message": "Keep track of the tokens you’ve bought with your MetaMask account."
+    "message": "Keep track of the tokens you’ve bought with your Kondor-Wallet account."
   },
   "kovan": {
     "message": "Kovan Test Network"
@@ -593,14 +593,14 @@
   "message": {
     "message": "Message"
   },
-  "metamaskDescription": {
-    "message": "MetaMask is a secure identity vault for Ethereum."
+  "kondorWalletDescription": {
+    "message": "Kondor-Wallet is a secure identity vault for Ethereum."
   },
-  "metamaskSeedWords": {
-    "message": "MetaMask Seed Words"
+  "kondorWalletSeedWords": {
+    "message": "Kondor-Wallet Seed Words"
   },
-  "metamaskVersion": {
-    "message": "MetaMask Version"
+  "kondorWalletVersion": {
+    "message": "Kondor-Wallet Version"
   },
   "min": {
     "message": "Minimum"
@@ -612,7 +612,7 @@
     "message": "Must select at least 1 token."
   },
   "needEtherInWallet": {
-    "message": "To interact with decentralized applications using MetaMask, you’ll need Ether in your wallet."
+    "message": "To interact with decentralized applications using Kondor-Wallet, you’ll need Ether in your wallet."
   },
   "needImportFile": {
     "message": "You must select a file to import.",
@@ -962,7 +962,7 @@
     "message": "Select an Account"
   },
   "selectAnAccountHelp": {
-    "message": "Select the account to view in MetaMask"
+    "message": "Select the account to view in Kondor-Wallet"
   },
   "selectHdPath": {
     "message": "Select HD Path"
@@ -1095,7 +1095,7 @@
     "message": "Token Symbol"
   },
   "tokenWarning1": {
-    "message": "Keep track of the tokens you’ve bought with your MetaMask account. If you bought tokens using a different account, those tokens will not appear here."
+    "message": "Keep track of the tokens you’ve bought with your Kondor-Wallet account. If you bought tokens using a different account, those tokens will not appear here."
   },
   "total": {
     "message": "Total"
@@ -1150,7 +1150,7 @@
     "message": "Try again"
   },
   "twelveWords": {
-    "message": "These 12 words are the only way to restore your MetaMask accounts.\nSave them somewhere safe and secret."
+    "message": "These 12 words are the only way to restore your Kondor-Wallet accounts.\nSave them somewhere safe and secret."
   },
   "typePassword": {
     "message": "Type Your Password"
@@ -1159,7 +1159,7 @@
     "message": "Welcome to the New UI (Beta)"
   },
   "uiWelcomeMessage": {
-    "message": "You are now using the new MetaMask UI."
+    "message": "You are now using the new Kondor-Wallet UI."
   },
   "unapproved": {
     "message": "Unapproved"
@@ -1235,7 +1235,7 @@
     "message": "Welcome Back!"
   },
   "welcomeBeta": {
-    "message": "Welcome to MetaMask Beta"
+    "message": "Welcome to Kondor-Wallet Beta"
   },
   "whatsThis": {
     "message": "What's this?"
