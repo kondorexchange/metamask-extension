@@ -34,7 +34,7 @@
       "description": "Uygulama açıklaması"
     },
     "appName": {
-      "message": "Kondor-Wallet",
+      "message": "KondorWallet",
       "description": "Uygulama ismi"
     },
     "approved": {
@@ -75,7 +75,7 @@
       "message": "Dharma (Beta) ile ödünç al"
     },
     "builtInCalifornia": {
-      "message": "Kondor-Wallet California'da tasarlandı ve yaratıldı"
+      "message": "KondorWallet California'da tasarlandı ve yaratıldı"
     },
     "buy": {
       "message": "Satın al"
@@ -190,7 +190,7 @@
       "message": "Ether işlemleri için varsayılan ağ Main Net."
     },
     "denExplainer": {
-      "message": "DEN'iniz Kondor-Wallet içersinde parola-şifrelenmiş deponuzdur."
+      "message": "DEN'iniz KondorWallet içersinde parola-şifrelenmiş deponuzdur."
     },
     "deposit": {
       "message": "Yatır"
@@ -218,7 +218,7 @@
       "message": "ShapeShift ile yatır"
     },
     "depositShapeShiftExplainer": {
-      "message": "Eğer başka kripto paralara sahipseniz, Kondor-Wallet cüzdanınıza direk olarak Ether yatırabilirsiniz. Hesaba gerek yoktur."
+      "message": "Eğer başka kripto paralara sahipseniz, KondorWallet cüzdanınıza direk olarak Ether yatırabilirsiniz. Hesaba gerek yoktur."
     },
     "details": {
       "message": "Ayrıntılar"
@@ -372,7 +372,7 @@
       "message": "Hesap Al"
     },
     "importAccountMsg": {
-      "message":" Alınan hesaplar orjinal kaynakifadenizle yarattığınız Kondor-Wallet hesabınızla ilişkilendirilmez. Alınan hesaplar ile ilgili daha fazla bilgi edinin "
+      "message":" Alınan hesaplar orjinal kaynakifadenizle yarattığınız KondorWallet hesabınızla ilişkilendirilmez. Alınan hesaplar ile ilgili daha fazla bilgi edinin "
     },
     "importAnAccount": {
       "message": "Hesap al"
@@ -419,7 +419,7 @@
       "description": "Hesap alımı için düzenle"
     },
     "keepTrackTokens": {
-      "message": "Kondor-Wallet hesabınızla satın aldığınız jetonların kaydını tutun."
+      "message": "KondorWallet hesabınızla satın aldığınız jetonların kaydını tutun."
     },
     "kovan": {
       "message": "Kovan Test Ağı"
@@ -474,7 +474,7 @@
       "message": "Mesaj"
     },
     "kondorWalletDescription": {
-      "message": "Kondor-Wallet Ethereum için güvenli bir kimlik kasasıdır."
+      "message": "KondorWallet Ethereum için güvenli bir kimlik kasasıdır."
     },
     "min": {
       "message": "Minimum"
@@ -486,7 +486,7 @@
       "message": "En az bir jeton seçilmeli"
     },
     "needEtherInWallet": {
-      "message": "Kondor-Wallet kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Ether bulunmalıdır."
+      "message": "KondorWallet kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Ether bulunmalıdır."
     },
     "needImportFile": {
       "message": "Almak için bir dosya seçmelisiniz.",
@@ -818,7 +818,7 @@
       "message": "Jeton Sembolü"
     },
     "tokenWarning1": {
-      "message": "Kondor-Wallet hesabınızla aldığınız jetonların kaydını tutun. Başka bir hesapla jetonlar satın aldıysanız, o jetonlar burada gözükmeyecektir."
+      "message": "KondorWallet hesabınızla aldığınız jetonların kaydını tutun. Başka bir hesapla jetonlar satın aldıysanız, o jetonlar burada gözükmeyecektir."
     },
     "total": {
       "message": "Toplam"
@@ -843,7 +843,7 @@
       "description": "Jeton bakiyelerini görmek için bir link (burası) ile takip ediliyor"
     },
     "twelveWords": {
-      "message": "Kondor-Wallet hesaplarınızı geri getirmenin tek yolu bu 12 kelimedir.\nBu kelimeleri güvenli ve gizli bir yerde saklayın."
+      "message": "KondorWallet hesaplarınızı geri getirmenin tek yolu bu 12 kelimedir.\nBu kelimeleri güvenli ve gizli bir yerde saklayın."
     },
     "typePassword": {
       "message": "Parolanızı girin"
@@ -852,7 +852,7 @@
       "message": "Yeni UI (Beta)'ya hoşgeldiniz"
     },
     "uiWelcomeMessage": {
-      "message": "Şu anda yeni Kondor-Wallet UI kullanmaktasınız. Gözatın, jeton gönderme gibi yeni özellikleri deneyin ve herhangi bir sorunlar karşılaşırsanız bize haber verin"
+      "message": "Şu anda yeni KondorWallet UI kullanmaktasınız. Gözatın, jeton gönderme gibi yeni özellikleri deneyin ve herhangi bir sorunlar karşılaşırsanız bize haber verin"
     },
     "unapproved": {
       "message": "Onaylanmadı"
@@ -898,7 +898,7 @@
       "message": "Uyarı"
     },
     "welcomeBeta": {
-      "message": "Kondor-Wallet Beta'ya Hoşgeldiniz"
+      "message": "KondorWallet Beta'ya Hoşgeldiniz"
     },
     "whatsThis": {
       "message": "Bu nedir?"
